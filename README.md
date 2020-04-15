@@ -9,8 +9,7 @@
 - [lab7](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab7) - Создание и использование элементов управления
 - [lab8](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab8) - Графический ввод-вывод в оконном приложении
 - [lab9](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab9) - Динамическое отображение данных на окне
-- [lab10 part1](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab10_1) - Обмен сообщениями между окнами, обработка сообщений ввода-вывода (программа 1)
-- [lab10 part2](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab10_2) - Обмен сообщениями между окнами, обработка сообщений ввода-вывода (программа 2)
+- [lab10](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab10) - Обмен сообщениями между окнами, обработка сообщений ввода-вывода
 - [lab11](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab11) - Использование потоков
 - [lab12](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab12) - Синхронизация доступа к ресурсам
 - [lab13](https://github.com/SingularityUrBrain/OSaE/tree/master/Lab13) - Приоритеты
